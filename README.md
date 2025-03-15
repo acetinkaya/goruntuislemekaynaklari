@@ -1,3 +1,3 @@
 # Görüntü işleme Kaynaklari
 
-## Görüntü İşleme çalışmaları 
+## Görüntü İşleme çalışmaları ile ilgili 
