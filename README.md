@@ -4,4 +4,4 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-**Görüntü İşleme** alanında temel ve ileri 
+**Görüntü İşleme** alanında temel ve ileri seviye 
