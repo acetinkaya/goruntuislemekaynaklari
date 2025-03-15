@@ -24,7 +24,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ---
 
-1.
+1. Birol Kuyumcu, OpenCV Görüntü İşleme ve Yapay Zeka, 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
