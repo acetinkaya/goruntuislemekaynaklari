@@ -18,7 +18,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 | 📘 Kitap Adı | Açıklama | ISBN No | Yayın Yeri/Evi | Erişim Sayfası | Referans No |  
 |--------------|---------|------|-----------|------|-|
-| OpenCV Görüntü İşleme ve Yapay Zeka | OPENCV kütüphanesini uygulamalı ve teori destekli ders kitabıdır.  | 978-605-65679-3-3 | 
+| OpenCV Görüntü İşleme ve Yapay Zeka | OPENCV kütüphanesini uygulamalı ve teori destekli ders kitabıdır.  | 978-605-65679-3-3 | Level Kitap | [ Link ](https://www.amazon.com.tr/OpenCv-G%C3%B6r%C3%BCnt%C3%BC-%C4%B0%C5%9Fleme-%C3%96%C4%9Frenme-Hediyeli/dp/6056567931)| 1. | 
 
 
 
