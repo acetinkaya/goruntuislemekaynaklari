@@ -6,4 +6,4 @@
 
 **Görüntü İşleme** alanında temel ve ileri seviye kaynak kitapları içermektedir.
 
-Bu sayfa öğrenciler, 
+Bu sayfa öğrenciler, araştırmacılar 
