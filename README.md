@@ -6,5 +6,5 @@
 
 **Görüntü İşleme** alanında temel ve ileri seviye kaynak kitapları içermektedir.
 
-Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteliğinde olup, ilgili konularda derinlemesine bilgi edinmeyi ve 
+Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteliğinde olup, ilgili konularda derinlemesine bilgi edinmeyi ve araştırma yapmayı 
 
