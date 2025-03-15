@@ -4,4 +4,4 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-**Görüntü İşleme**
+**Görüntü İşleme** alanında 
