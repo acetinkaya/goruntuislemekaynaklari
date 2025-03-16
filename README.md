@@ -25,7 +25,8 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 ---
 
 1. Birol Kuyumcu, OpenCv Görüntü İşleme ve Yapay Zeka, Level Kitap, İstanbul, 2015.
-2. Dr. Bekir Aksoy, Python ile İmgeden Veriye Görüntü İşleme ve Uygulamaları,
+2. Dr. Bekir Aksoy, Python ile İmgeden Veriye Görüntü İşleme ve Uygulamaları, Nobel Akademik Yayıncılık, 2021.
+
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
 ---
