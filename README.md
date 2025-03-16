@@ -25,6 +25,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 ---
 
 1. Birol Kuyumcu, OpenCv Görüntü İşleme ve Yapay Zeka, Level Kitap, İstanbul, 2015.
+2. Dr. 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
